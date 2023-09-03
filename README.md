@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I am a passionate about new technologies and its impact on businesses.**
 
-- :mortar_board: Bachelor Degree in **Applied Computer Science** and **Business Administration** at Morningside University**
+- :mortar_board: Bachelor Degree in **Applied Computer Science** and **Business Administration** at Morningside University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
