@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
-<h3 align="center">I'm a senior student in Computer Science & Business Administration at Morningside University</h3>
+<h3 align="center">I'm a graduate student in Business Analytics at The University of Iowa</h3>
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
 
