@@ -3,7 +3,7 @@
 
 <p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
 
-<h2>Education</h2>
+<h2>🎓Education</h2>
 <h3>University of Iowa</h3>
 <p><strong>Master of Science in Business Analytics</strong></p>
 
