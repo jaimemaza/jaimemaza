@@ -1,5 +1,32 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
-<h3 align="center">I'm a graduate student in Business Analytics at The University of Iowa</h3>
+
+Hi! I'm Jaime Maza, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.
+
+Education
+University of Iowa
+Master of Science in Business Analytics
+
+Morningside University
+Bachelor of Arts in Applied Computer Science and Business Administration
+
+Minor in Mathematics
+
+Skills
+Programming Languages:
+
+Python, SQL, R, C++, JavaScript, HTML, CSS, PHP, C#, Kotlin
+Applications:
+
+Excel, PowerBI, Tableau, Oracle, Orange
+
+Certifications
+Google Data Analytics Specialization
+
+Languages
+English and Spanish (native)
+
+Get in Touch
+
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
 
