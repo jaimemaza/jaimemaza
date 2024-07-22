@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
 <h2>About Me</h2>
 
-<p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
+<p>Hi! I'm Jaime Maza, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
 
 <h2>🎓 Education</h2>
 <h3>University of Iowa</h3>
@@ -45,7 +45,7 @@
     </ul>
 
 <h2>📊 Projects</h2>
-<h3><a href="link-to-repo">Stock Market Predictor using Python</a></h3>
+<h3><a href="https://github.com/jaimemaza/StockMarketPredictorJM">Stock Market Predictor using Python</a></h3>
 <p>Predicting stock market prices using Python and machine learning models.</p>
 
 <h3><a href="link-to-repo">Data Analysis using SQL and Tableau</a></h3>
