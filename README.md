@@ -1,31 +1,68 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
 
-Hi! I'm Jaime Maza, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>xxx's Data Science Portfolio</title>
+</head>
+<body>
+    <h1>xxx's Data Science Portfolio</h1>
 
-Education
-University of Iowa
-Master of Science in Business Analytics
+    <h2>About Me</h2>
+    <p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
 
-Morningside University
-Bachelor of Arts in Applied Computer Science and Business Administration
+    <h2>Education</h2>
+    <h3>University of Iowa</h3>
+    <p><strong>Master of Science in Business Analytics</strong></p>
 
-Minor in Mathematics
+    <h3>Morningside University</h3>
+    <p><strong>Bachelor of Arts in Applied Computer Science and Business Administration</strong></p>
+    <p>Minor in Mathematics</p>
 
-Skills
-Programming Languages:
+    <h2>Skills</h2>
+    <p><strong>Programming Languages:</strong></p>
+    <ul>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>R</li>
+        <li>C++</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>PHP</li>
+        <li>C#</li>
+        <li>Kotlin</li>
+    </ul>
 
-Python, SQL, R, C++, JavaScript, HTML, CSS, PHP, C#, Kotlin
-Applications:
+    <p><strong>Applications:</strong></p>
+    <ul>
+        <li>Excel</li>
+        <li>PowerBI</li>
+        <li>Tableau</li>
+        <li>Oracle</li>
+        <li>Orange</li>
+    </ul>
 
-Excel, PowerBI, Tableau, Oracle, Orange
+    <h2>Projects</h2>
+    <h3><a href="link-to-repo">Stock Market Predictor using Python</a></h3>
+    <p>Predicting stock market prices using Python and machine learning models.</p>
 
-Certifications
-Google Data Analytics Specialization
+    <h3><a href="link-to-repo">Data Analysis using SQL and Tableau</a></h3>
+    <p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
 
-Languages
-English and Spanish (native)
+    <h2>Certifications</h2>
+    <p>Google Data Analytics Specialization</p>
 
-Get in Touch
+    <h2>Languages</h2>
+    <p>English and Spanish (native)</p>
+
+    <h2>Get in Touch</h2>
+    <p>Connect with me on <a href="your-linkedin-profile">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+</body>
+</html>
+
 
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
