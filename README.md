@@ -58,7 +58,7 @@
 <p>English and Spanish (native)</p>
     
 <h2> 📫Get in Touch</h2>
-<p>Connect with me on <a href="https://linkedin.com/in/jaime-maza-martin">LinkedIn</a> or email me at <a href="jaimemazamartin@gmail.com">your-email@example.com</a>.</p>
+<p>Connect with me on <a href="https://linkedin.com/in/jaime-maza-martin">LinkedIn</a> or email me at <a href="jaimemazamartin@gmail.com">jaimemazamartin@gmail.com</a>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
