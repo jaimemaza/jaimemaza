@@ -48,7 +48,7 @@
 <h3><a href="https://github.com/jaimemaza/StockMarketPredictorJM">Stock Market Predictor</a></h3>
 <p>Predicting stock market prices using Python and machine learning models.</p>
 
-<h3><a href="link-to-repo">Data Analysis using SQL and Tableau</a></h3>
+<h3><a href="https://github.com/jaimemaza/Data-analysis-using-SQL-">Comprehensive Movie Database Analysis</a></h3>
 <p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
     
 <h2>📜 Certifications</h2>
