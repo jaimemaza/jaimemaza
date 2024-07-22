@@ -1,12 +1,5 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>xxx's Data Science Portfolio</title>
-</head>
-<body>
-    <h1>xxx's Data Science Portfolio</h1>
 
     <h2>About Me</h2>
     <p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
@@ -58,7 +51,6 @@
 
     <h2>Get in Touch</h2>
     <p>Connect with me on <a href="your-linkedin-profile">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-</body>
 
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
