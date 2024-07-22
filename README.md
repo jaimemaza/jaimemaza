@@ -3,6 +3,13 @@
 
 <p>Hi! I'm Jaime Maza, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
 
+<h2>📊 Projects</h2>
+<h3><a href="https://github.com/jaimemaza/StockMarketPredictorJM">Stock Market Predictor</a></h3>
+<p>Predicting stock market prices using Python and machine learning models.</p>
+
+<h3><a href="https://github.com/jaimemaza/Data-analysis-using-SQL-">Comprehensive Movie Database Analysis</a></h3>
+<p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
+
 <h2>🎓 Education</h2>
 <h3>University of Iowa</h3>
 <p><strong>Master of Science in Business Analytics</strong></p>
@@ -43,13 +50,6 @@
         <li>Data Management & Visual Analytics</li>
         <li>Web Development</li>
     </ul>
-
-<h2>📊 Projects</h2>
-<h3><a href="https://github.com/jaimemaza/StockMarketPredictorJM">Stock Market Predictor</a></h3>
-<p>Predicting stock market prices using Python and machine learning models.</p>
-
-<h3><a href="https://github.com/jaimemaza/Data-analysis-using-SQL-">Comprehensive Movie Database Analysis</a></h3>
-<p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
     
 <h2>📜 Certifications</h2>
 <p>Google Data Analytics Specialization</p>
