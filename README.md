@@ -34,7 +34,7 @@
 <li>Orange</li>
 </ul>
 
-p><strong>Other Skills:</strong></p>
+<p><strong>Other Skills:</strong></p>
     <ul>
         <li>Numerical & Analytical Skills</li>
         <li>Data Structures & Algorithms</li>
