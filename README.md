@@ -1,19 +1,18 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
+<h2>About Me</h2>
 
+<p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
 
-    <h2>About Me</h2>
-    <p>Hi! I'm xxx, a Data Science and Business Analytics enthusiast currently pursuing my Master's at the University of Iowa. My background includes applied computer science and business administration, and I'm passionate about data analysis, machine learning, and business intelligence.</p>
+<h2>Education</h2>
+<h3>University of Iowa</h3>
+<p><strong>Master of Science in Business Analytics</strong></p>
 
-    <h2>Education</h2>
-    <h3>University of Iowa</h3>
-    <p><strong>Master of Science in Business Analytics</strong></p>
+<h3>Morningside University</h3>
+<p><strong>Bachelor of Arts in Applied Computer Science and Business Administration</strong></p>
+<p>Minor in Mathematics</p>
 
-    <h3>Morningside University</h3>
-    <p><strong>Bachelor of Arts in Applied Computer Science and Business Administration</strong></p>
-    <p>Minor in Mathematics</p>
-
-    <h2>Skills</h2>
-    <p><strong>Programming Languages:</strong></p>
+<h2>Skills</h2>
+<p><strong>Programming Languages:</strong></p>
     <ul>
         <li>Python</li>
         <li>SQL</li>
