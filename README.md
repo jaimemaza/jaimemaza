@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, my name is Jaime Maza</h1>
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,8 +59,6 @@
     <h2>Get in Touch</h2>
     <p>Connect with me on <a href="your-linkedin-profile">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
 </body>
-</html>
-
 
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
