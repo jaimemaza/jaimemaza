@@ -21,9 +21,7 @@
         <li>JavaScript</li>
         <li>HTML</li>
         <li>CSS</li>
-        <li>PHP</li>
         <li>C#</li>
-        <li>Kotlin</li>
     </ul>
 
 <p><strong>Applications:</strong></p>
@@ -32,8 +30,19 @@
 <li>PowerBI</li>
 <li>Tableau</li>
 <li>Oracle</li>
+<li>Azure</li>
 <li>Orange</li>
 </ul>
+
+p><strong>Other Skills:</strong></p>
+    <ul>
+        <li>Numerical & Analytical Skills</li>
+        <li>Data Structures & Algorithms</li>
+        <li>Object-Oriented Programming</li>
+        <li>Data Science</li>
+        <li>Data Management & Visual Analytics</li>
+        <li>Web Development</li>
+    </ul>
 
 <h2>📊 Projects</h2>
 <h3><a href="link-to-repo">Stock Market Predictor using Python</a></h3>
