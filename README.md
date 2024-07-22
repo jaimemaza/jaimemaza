@@ -10,6 +10,8 @@
 <h3><a href="https://github.com/jaimemaza/Data-analysis-using-SQL-">Comprehensive Movie Database Analysis</a></h3>
 <p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
 
+<h3><a href="https://github.com/jaimemaza/Understanding-and-Enhancing-Talent-Acquisition-in-Global-Football">Understanding and Enhancing Talent Acquisition in Global Football</a></h3>
+
 <h2>🎓 Education</h2>
 <h3>University of Iowa</h3>
 <p><strong>Master of Science in Business Analytics</strong></p>
