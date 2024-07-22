@@ -13,44 +13,44 @@
 
 <h2>Skills</h2>
 <p><strong>Programming Languages:</strong></p>
-    <ul>
-        <li>Python</li>
-        <li>SQL</li>
-        <li>R</li>
-        <li>C++</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>PHP</li>
-        <li>C#</li>
-        <li>Kotlin</li>
-    </ul>
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>R</li>
+<li>C++</li>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>PHP</li>
+<li>C#</li>
+<li>Kotlin</li>
+</ul>
 
-    <p><strong>Applications:</strong></p>
-    <ul>
-        <li>Excel</li>
-        <li>PowerBI</li>
-        <li>Tableau</li>
-        <li>Oracle</li>
-        <li>Orange</li>
-    </ul>
+<p><strong>Applications:</strong></p>
+<ul>
+<li>Excel</li>
+<li>PowerBI</li>
+<li>Tableau</li>
+<li>Oracle</li>
+<li>Orange</li>
+</ul>
 
-    <h2>Projects</h2>
-    <h3><a href="link-to-repo">Stock Market Predictor using Python</a></h3>
-    <p>Predicting stock market prices using Python and machine learning models.</p>
+<h2>Projects</h2>
+<h3><a href="link-to-repo">Stock Market Predictor using Python</a></h3>
+<p>Predicting stock market prices using Python and machine learning models.</p>
 
-    <h3><a href="link-to-repo">Data Analysis using SQL and Tableau</a></h3>
-    <p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
-
-    <h2>Certifications</h2>
-    <p>Google Data Analytics Specialization</p>
-
-    <h2>Languages</h2>
-    <p>English and Spanish (native)</p>
-
-    <h2>Get in Touch</h2>
-    <p>Connect with me on <a href="your-linkedin-profile">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
-
+<h3><a href="link-to-repo">Data Analysis using SQL and Tableau</a></h3>
+<p>Analyzing film data and creating visualizations with SQL and Tableau.</p>
+    
+<h2>Certifications</h2>
+<p>Google Data Analytics Specialization</p>
+    
+<h2>Languages</h2>
+<p>English and Spanish (native)</p>
+    
+<h2>Get in Touch</h2>
+<p>Connect with me on <a href="your-linkedin-profile">LinkedIn</a> or email me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    
 
 - 📫 How to reach me **jaimemazamartin@gmail.com**
 
